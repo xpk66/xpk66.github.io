@@ -1,2 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>PKの笔记本</title><link>http://xpk66.github.io</link><description>湖光潋滟，心静如水。</description><copyright>PKの笔记本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/101401163?s=400&amp;u=112c1cde7565900aa48d15452a2b91f7726fee81&amp;v=4</url><title>avatar</title><link>http://xpk66.github.io</link></image><lastBuildDate>Sun, 28 Jul 2024 04:38:47 +0000</lastBuildDate><managingEditor>PKの笔记本</managingEditor><ttl>60</ttl><webMaster>PKの笔记本</webMaster><item><title>人会死，但我的博客在GitHub中会万岁</title><link>http://xpk66.github.io/post/ren-hui-si-%EF%BC%8C-dan-wo-de-bo-ke-zai-GitHub-zhong-hui-wan-sui.html</link><description>当人类面对时间的无情流逝，我们总是渴望留下一些痕迹，一些思想，一些记忆。</description><guid isPermaLink="true">http://xpk66.github.io/post/ren-hui-si-%EF%BC%8C-dan-wo-de-bo-ke-zai-GitHub-zhong-hui-wan-sui.html</guid><pubDate>Thu, 25 Jul 2024 01:23:22 +0000</pubDate></item><item><title>xpk测试</title><link>http://xpk66.github.io/post/xpk-ce-shi.html</link><description>测试。</description><guid isPermaLink="true">http://xpk66.github.io/post/xpk-ce-shi.html</guid><pubDate>Wed, 10 Jul 2024 09:59:22 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>PKの笔记本</title><link>http://xpk66.github.io</link><description>湖光潋滟，心静如水。</description><copyright>PKの笔记本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/101401163?s=400&amp;u=112c1cde7565900aa48d15452a2b91f7726fee81&amp;v=4</url><title>avatar</title><link>http://xpk66.github.io</link></image><lastBuildDate>Mon, 29 Jul 2024 03:33:51 +0000</lastBuildDate><managingEditor>PKの笔记本</managingEditor><ttl>60</ttl><webMaster>PKの笔记本</webMaster><item><title>安卓逆向学习-1</title><link>http://xpk66.github.io/post/an-zhuo-ni-xiang-xue-xi--1.html</link><description>### **一.课程目标：**&#13;
+1.了解APK文件结构&#13;
+2.双开APK，简单了解原理&#13;
+3.汉化APK&#13;
+4.简单修改APK名字、图标&#13;
+### **二.工具：**&#13;
+1.教程Demo&#13;
+2.MT管理器/NP管理器&#13;
+3.开发者助手&#13;
+4.雷电模拟器&#13;
+### **三.内容：**&#13;
+&#13;
+**1.Apk结构**&#13;
+ask 全称 Android Package，它相当于一个压缩文件，只要在电脑上将apk后缀改为zip即可解压。</description><guid isPermaLink="true">http://xpk66.github.io/post/an-zhuo-ni-xiang-xue-xi--1.html</guid><pubDate>Mon, 29 Jul 2024 03:33:28 +0000</pubDate></item><item><title>人会死，但我的博客在GitHub中会万岁</title><link>http://xpk66.github.io/post/ren-hui-si-%EF%BC%8C-dan-wo-de-bo-ke-zai-GitHub-zhong-hui-wan-sui.html</link><description>当人类面对时间的无情流逝，我们总是渴望留下一些痕迹，一些思想，一些记忆。</description><guid isPermaLink="true">http://xpk66.github.io/post/ren-hui-si-%EF%BC%8C-dan-wo-de-bo-ke-zai-GitHub-zhong-hui-wan-sui.html</guid><pubDate>Thu, 25 Jul 2024 01:23:22 +0000</pubDate></item><item><title>xpk测试</title><link>http://xpk66.github.io/post/xpk-ce-shi.html</link><description>测试。</description><guid isPermaLink="true">http://xpk66.github.io/post/xpk-ce-shi.html</guid><pubDate>Wed, 10 Jul 2024 09:59:22 +0000</pubDate></item></channel></rss>
