@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>PKの笔记本</title><link>http://xpk66.github.io</link><description>湖光潋滟，心静如水.</description><copyright>PKの笔记本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/101401163?s=400&amp;u=112c1cde7565900aa48d15452a2b91f7726fee81&amp;v=4</url><title>avatar</title><link>http://xpk66.github.io</link></image><lastBuildDate>Mon, 29 Jul 2024 04:11:11 +0000</lastBuildDate><managingEditor>PKの笔记本</managingEditor><ttl>60</ttl><webMaster>PKの笔记本</webMaster><item><title>安卓逆向学习-1</title><link>http://xpk66.github.io/post/an-zhuo-ni-xiang-xue-xi--1.html</link><description>### **一.课程目标：**&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>PKの笔记本</title><link>http://xpk66.github.io</link><description>湖光潋滟，心静如水.</description><copyright>PKの笔记本</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/101401163?s=400&amp;u=112c1cde7565900aa48d15452a2b91f7726fee81&amp;v=4</url><title>avatar</title><link>http://xpk66.github.io</link></image><lastBuildDate>Fri, 02 Aug 2024 00:30:20 +0000</lastBuildDate><managingEditor>PKの笔记本</managingEditor><ttl>60</ttl><webMaster>PKの笔记本</webMaster><item><title>安卓逆向学习-2</title><link>http://xpk66.github.io/post/an-zhuo-ni-xiang-xue-xi--2.html</link><description>###**一·.原文保存**&#13;
+[《安卓逆向这档事》三、初识smali，vip终结者.md](https://github.com/user-attachments/files/16438561/smali.vip.md)&#13;
+[《安卓逆向这档事》三、初识smali，vip终结者.docx](https://github.com/user-attachments/files/16438594/smali.vip.docx)&#13;
+###**二.笔记（要点）**&#13;
+##**1.什么是JVM、Dalvik、ART**&#13;
+JVM是JAVA虚拟机，运行JAVA字节码程序&#13;
+Dalvik是Google专门为Android设计的一个虚拟机，Dalvik有专属的文件执行格式dex(Dalvik executable)&#13;
+Art(Android Runtime)相当于Dalvik的升级版，本质与Dalvik无异&#13;
+##2.smali及其语法&#13;
+smali是Dalvik的寄存器语言，smali代码是dex反编译而来的。</description><guid isPermaLink="true">http://xpk66.github.io/post/an-zhuo-ni-xiang-xue-xi--2.html</guid><pubDate>Wed, 31 Jul 2024 08:50:39 +0000</pubDate></item><item><title>安卓逆向学习-1</title><link>http://xpk66.github.io/post/an-zhuo-ni-xiang-xue-xi--1.html</link><description>### **一.课程目标：**&#13;
 1.了解APK文件结构&#13;
 2.双开APK，简单了解原理&#13;
 3.汉化APK&#13;
