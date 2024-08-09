@@ -15,5 +15,5 @@
     "indexStyle":"<link rel='stylesheet' href='https://cdn.jsdelivr.net/npm/font-awesome/css/font-awesome.min.css'>",
     "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "script":"<script type='text/javascript' id='myhk' src='https://myhkw.cn/api/player/172317973270' key='172317973270' m='1'></script>",
-    "script":"<script type='text/javascript' src='https://myhkw.cn/player/js/jquery.min.js'></script>"
+    "script":"<script type='text/javascript' src='https://myhkw.cn/player/js/jquery.min.js'></script>",
 }
